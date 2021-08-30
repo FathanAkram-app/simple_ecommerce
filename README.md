@@ -18,3 +18,6 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
+
+<h2>Uncompleted FlowChart</h2>
+<img src="https://i.im.ge/2021/08/30/QONin6.png"/>
